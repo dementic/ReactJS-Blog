@@ -1,0 +1,15 @@
+{
+  "short_name": "Paper Insurance",
+  "name": "Blog Task created for PaperInsurance",
+  "icons": [
+    {
+      "src": "https://paperinsurance.com/wp-content/uploads/2019/06/cropped-paper-favicon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }    
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
